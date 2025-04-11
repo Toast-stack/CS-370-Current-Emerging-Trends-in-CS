@@ -96,3 +96,6 @@ Ethics play a pivotal role in computer science. Key responsibilities include:
 - **Transparency**: Providing clear information about processes and decisions made by AI systems to build trust and accountability.
 
 By adhering to these ethical principles, computer scientists can create technologies that are responsible, fair, and beneficial to society.
+
+## License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software.
